@@ -1,0 +1,144 @@
+.tile {
+  display: inline-flex;
+}
+
+.sand {
+  background-color: "#e4a55e";
+}
+
+.tumbleweed {
+  background-image: url("/tiles/tumbleweed.png");
+  background-color: "#e4a55e";
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+
+.grasses {
+  background-image: url("/tiles/grassBlades.png");
+  background-color: "#e4a55e";
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+
+.skull {
+  background-image: url("/tiles/skull.png");
+  background-repeat: no-repeat;
+}
+
+.tropicalPalm {
+  background-image: url("/tiles/Trop_Palm.png");
+  background-color: "#e4a55e";
+  background-repeat: no-repeat;
+}
+
+.rock {
+  background-image: url("/tiles/bigBoulder.png");
+  background-color: "#e4a55e";
+  background-size: 80%;
+  background-repeat: no-repeat;
+}
+
+.oasis {
+  background-color: "#02abca";
+  background-image: url("/tiles/oasis.png");
+  background-size: 100%;
+  background-repeat: repeat;
+}
+
+.rockyCliff {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/rockyCliff.png");
+  background-size: 100%;
+  background-repeat: repeat;
+}
+
+.cactus {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/cactus.png");
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+.cacti {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/cacti.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.treasureChest {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/treasureChest.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+}
+
+.coins {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/coins.png");
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+.vase {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/vase.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+
+.cobraGif {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/giphy.webp");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.quickSand {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/quicksand.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.snorkel {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/snorkel.png");
+  background-size: 80%;
+  background-repeat: no-repeat;
+}
+
+.whirlwind {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/whirlwind.gif");
+  background-size: 120%;
+  background-repeat: no-repeat;
+}
+
+.scorpion {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/scorpion.gif");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.crocodile {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/crocodile.gif");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.skullCrossbones {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/skullCrossbones.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.fireworks {
+  background-color: "#e4a55e";
+  background-image: url("/tiles/fireworks.gif");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
