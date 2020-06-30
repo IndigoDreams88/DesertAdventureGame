@@ -78,14 +78,12 @@ export default function handleMovement(player) {
       if (y === index) {
         tile.splice(x, 1, 10.5);
         noOfDeaths++;
-        console.log(noOfDeaths, "number of deaths");
         return tile;
       } else {
         return tile;
       }
 
       if (noOfDeaths === 3) {
-        console.log("I've died three times");
         tile.splice(x, 1, 10.5);
       }
     });
