@@ -78,6 +78,7 @@ export default function handleMovement(player) {
       if (y === index) {
         tile.splice(x, 1, 10.5);
         noOfDeaths++;
+
         return tile;
       } else {
         return tile;
