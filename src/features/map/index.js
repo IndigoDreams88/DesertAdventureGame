@@ -339,7 +339,9 @@ function Map(props) {
               style={{
                 marginTop: "30px",
                 display: "flex",
-                flexDirection: "column",
+                flexDirection: "row",
+                flexWrap: "wrap",
+                justifyContent: "center",
               }}
             >
               {props.tiles[0][9] ? null : (
